@@ -4,6 +4,14 @@
   "private": true,
   "version": "0.0.0",
   "author": "Alex Smagin",
+  "keywords": [
+    "typescript",
+    "react",
+    "todo",
+    "goals",
+    "bootcamp",
+    "fullstack"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
