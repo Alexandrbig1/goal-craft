@@ -3,6 +3,9 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Alexandrbig1/goal-craft)](https://github.com/Alexandrbig1/goal-craft/commits/main)
+[![GitHub license](https://img.shields.io/github/license/Alexandrbig1/goal-craft)](https://github.com/Alexandrbig1/goal-craft/blob/main/LICENSE)
+[![React](https://img.shields.io/badge/React-18.0.0-blue.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.5.5-blue.svg)](https://www.typescriptlang.org/)
 
 GoalCraft is a React with TypeScript project designed to simplify goal setting and tracking. Empower yourself to articulate your goals, save them securely in local storage, and navigate your journey towards success.
 
