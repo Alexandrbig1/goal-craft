@@ -1,6 +1,6 @@
 {
   "name": "goal-craft",
-  "homepage": "http://Alexandrbig1.github.io/goal-craft",
+  "homepage": "https://github.com/Alexandrbig1/goal-craft",
   "private": true,
   "version": "0.0.0",
   "author": "Alex Smagin",
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@types/styled-components": "^5.1.32",
-    "gh-pages": "^6.1.0",
+    "gh-pages": "^6.1.1",
     "modern-normalize": "^2.0.0",
     "nanoid": "^5.0.4",
     "react": "^18.2.0",
