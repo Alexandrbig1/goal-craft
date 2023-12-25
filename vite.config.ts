@@ -1,4 +1,3 @@
-// vite.config.js
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
@@ -10,12 +9,11 @@ export default defineConfig({
     open: true,
   },
   build: {
-    outDir: "dist",
+    outDir: "build",
     assetsDir: "assets",
   },
   css: {
     modules: false,
-    // Add other CSS options if needed
   },
   resolve: {
     alias: {

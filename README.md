@@ -47,7 +47,13 @@ GoalCraft is a React with TypeScript project designed to simplify goal setting a
 
 ### Screenshots:
 
-![React Todo Plus TypeScript](./public/goalcraft.jpg)
+![Goal Craft App](./public/goalcraft1.jpg)
+_Caption for Screenshot 1 (Goal Craft)_
+![Goal Craft App](./public/goalcraft2.jpg)
+_Caption for Screenshot 1 (Goal Craft)_
+![Goal Craft App](./public/goalcraft3.jpg)
+_Caption for Screenshot 1 (Goal Craft)_
+![Goal Craft App](./public/goalcraft4.jpg)
 _Caption for Screenshot 1 (Goal Craft)_
 
 ## Issues

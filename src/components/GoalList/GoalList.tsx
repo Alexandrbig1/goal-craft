@@ -13,9 +13,21 @@ export default function GoalList({ goals, onDelete }: GoalsListProps) {
 
   let warningBox: ReactNode;
 
-  if (goals.length >= 4) {
+  if (goals.length >= 4 && goals.length < 6) {
+    warningBox = (
+      <InfoBox mode="warning" severity="low">
+        You're doing well, keep it up!
+      </InfoBox>
+    );
+  } else if (goals.length >= 6 && goals.length < 8) {
     warningBox = (
       <InfoBox mode="warning" severity="medium">
+        You have a good number of goals. Prioritize and stay focused!
+      </InfoBox>
+    );
+  } else if (goals.length >= 8) {
+    warningBox = (
+      <InfoBox mode="warning" severity="high">
         You're collection a lot of goals. Don't put too much on your plate!
       </InfoBox>
     );

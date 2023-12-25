@@ -4,6 +4,7 @@
   "private": true,
   "version": "0.0.0",
   "author": "Alex Smagin",
+  "description": "GoalCraft - Simplify goal setting and tracking with this React and TypeScript project. Empower yourself to articulate your goals, save them securely in local storage, and navigate your journey towards success.",
   "keywords": [
     "typescript",
     "react",
